@@ -1,0 +1,42 @@
+name,shortname,category,showbutton,altname1,altname2
+Melee DPS,MDPS,ROLE,true,Melee,-
+Ranged DPS,PRDPS,ROLE,true,Ranged,-
+Magical DPS,MRDPS,ROLE,true,Magical,Caster
+Tank,TANK,ROLE,true,-,-
+Healer,HEALER,ROLE,true,-,-
+Archer,ARC,PRDPS,false,Bow,-
+Gladiator,GLA,TANK,false,-,-
+Lancer,LNC,MDPS,false,-,-
+Marauder,MRD,TANK,false,-,-
+Pugilist,PGL,MDPS,false,-,-
+Arcanist,ACN,MRDPS,false,-,-
+Conjurer,CNJ,HEALER,false,-,-
+Thaumaturge,THM,MRDPS,false,-,-
+Rogue,ROG,MDPS,false,-,-
+Bard,BRD,PRDPS,true,-,-
+Dragoon,DRG,MDPS,true,Dragon,-
+Monk,MNK,MDPS,true,-,-
+Paladin,PLD,TANK,true,-,-
+Warrior,WAR,TANK,true,-,-
+Black Mage,BLM,MRDPS,true,Black,-
+White Mage,WHM,HEALER,true,White,-
+Scholar,SCH,HEALER,true,-,-
+Summoner,SMN,MRDPS,true,-,-
+Ninja,NIN,MDPS,true,Naruto,-
+Astrologian,AST,HEALER,true,Astro,-
+Dark Knight,DRK,TANK,true,-,-
+Machinist,MCH,PRDPS,true,-,-
+Red Mage,RDM,MRDPS,true,Red,-
+Samurai,SAM,MDPS,true,Weeb,-
+Blue Mage,BLU,MRDPS,true,Blue,-
+Gunbreaker,GNB,TANK,true,-,-
+Dancer,DNC,PRDPS,true,-,-
+Reaper,RPR,MDPS,true,-,-
+Sage,SAG,HEALER,true,-,-
+One,ONE,VOTING,true,-,-
+Two,TWO,VOTING,true,-,-
+Three,THREE,VOTING,true,-,-
+Four,FOUR,VOTING,true,-,-
+Five,FIVE,VOTING,true,-,-
+Barrier Healer,BHEAL,ROLE,true,Shield Healer,Shielder
+Pure Healer,PHEAL,ROLE,true,Regen Healer,Regen

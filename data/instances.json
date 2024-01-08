@@ -1,0 +1,2658 @@
+[
+  {
+    "lsid": "b229b89b3a8",
+    "name": "Sastasha",
+    "level": 15,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc74f52011b2b7c28e699c373f6f3ff122b73818.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "29e71c3b0a0",
+    "name": "The Tam-Tara Deepcroft",
+    "level": 16,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/48/489bcdbfb4d6e13d8a99f05f3cc36be9a1a329d6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "619923ac984",
+    "name": "Copperbell Mines",
+    "level": 17,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2bdf2ef1837832bf08b26d157dfcd937f1ef0d31.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "98319325b98",
+    "name": "Halatali",
+    "level": 20,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d82127797ea39e5bc6cb669fa823e4f6645d5c6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cf7612fa294",
+    "name": "The Thousand Maws of Toto-Rak",
+    "level": 24,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10beffc4bc093022b57a3a67479cc30d217d5e6a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e9740dde26c",
+    "name": "Haukke Manor",
+    "level": 28,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/ac35585945b4d5ad9861251c4a2123fc690b1604.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e371c7ab919",
+    "name": "Brayflox's Longstop",
+    "level": 32,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee287905d099a6ec6c762faad9e0985b792f7029.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b7a48152df9",
+    "name": "The Sunken Temple of Qarn",
+    "level": 35,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94dc61bd06f813414a45a8e690d5367852010618.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d601f85dc1e",
+    "name": "Cutter's Cry",
+    "level": 38,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6d/6d00a68503a873f376e8f0bab1929388c0f6cf4a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b6491e1b508",
+    "name": "The Stone Vigil",
+    "level": 41,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8d/8d5a8ea494389e01d27f1554c5505a17e2460cb1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "4a36cbca533",
+    "name": "Dzemael Darkhold",
+    "level": 44,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/cef908f71a407062fa936e449402467a781facf6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f507633618c",
+    "name": "The Aurum Vale",
+    "level": 47,
+    "ilevel": 0,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f94d9ba86ee0cd1017a05cc9b890c648f714b74.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "3fd66be47b2",
+    "name": "The Wanderer's Palace",
+    "level": 50,
+    "ilevel": 45,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/11/11e5a1e9d98c0f8cc90d71ddce1d519fb7ab7c4e.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "59c2b3b84fa",
+    "name": "Castrum Meridianum",
+    "level": 50,
+    "ilevel": 42,
+    "players": 8,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/df0cc1f49f3da4938bc5e0e8613a75beec49b676.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "2407dbd0cae",
+    "name": "The Praetorium",
+    "level": 50,
+    "ilevel": 42,
+    "players": 8,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f99b4b3f60c0ba4da711d84bbe0d770d8363f36a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "ae8a92122ec",
+    "name": "Amdapor Keep",
+    "level": 50,
+    "ilevel": 45,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/213de2b5210c0199dec67b5b6b9a2c8a7f4002b5.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a8dd3748467",
+    "name": "Pharos Sirius",
+    "level": 50,
+    "ilevel": 48,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/96c7eef6eb605e2687394a7f2d6166acb75bbb25.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a780ca9b970",
+    "name": "Copperbell Mines (Hard)",
+    "level": 50,
+    "ilevel": 48,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d911c88e7fda01c8547937d350591f7b5d6985f6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "61c74c68e00",
+    "name": "Haukke Manor (Hard)",
+    "level": 50,
+    "ilevel": 48,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/2285b25c002cc71fa43b15156221d18a6fe58f4d.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "87d3b951d3d",
+    "name": "The Lost City of Amdapor",
+    "level": 50,
+    "ilevel": 55,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a1b70dbf3c9afe2c8f3feff762c6d2d4af70d04.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d536b8f0cc8",
+    "name": "Halatali (Hard)",
+    "level": 50,
+    "ilevel": 55,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fd24a0cc9b7564878f9089fa9a1f53e6cf6b61ed.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "40681f6c94a",
+    "name": "Brayflox's Longstop (Hard)",
+    "level": 50,
+    "ilevel": 55,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1215c817319b716d7b0108908706ed14f6ce0803.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "18aeffad7c5",
+    "name": "Hullbreaker Isle",
+    "level": 50,
+    "ilevel": 70,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc0694a4d133620f9e2b9790812be36d27c145f9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "84d01fe5b6c",
+    "name": "The Tam-Tara Deepcroft (Hard)",
+    "level": 50,
+    "ilevel": 70,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1da2a6c8040a47a2a52eb44e682e0eb3d932317.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "418628edfbf",
+    "name": "The Stone Vigil (Hard)",
+    "level": 50,
+    "ilevel": 70,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89ab173dbe1ee1af6f7adeede644f8797e9c2abc.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6f1778eb631",
+    "name": "Snowcloak",
+    "level": 50,
+    "ilevel": 80,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c4/c4a09191bf38f1632faa59678a07a2e953646708.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "df38ed5c808",
+    "name": "Sastasha (Hard)",
+    "level": 50,
+    "ilevel": 80,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5f18d043f6f331f310c9420dabdc108d054d843.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6b35d4a1179",
+    "name": "The Sunken Temple of Qarn (Hard)",
+    "level": 50,
+    "ilevel": 80,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e057bf8bfc786b9668fc5e4abb7ad66cc4abd04a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5e75d2059af",
+    "name": "The Keeper of the Lake",
+    "level": 50,
+    "ilevel": 90,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bf/bf65fe90bbad619f22868fad5d38378b5a262f50.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7c11b0ba080",
+    "name": "The Wanderer's Palace (Hard)",
+    "level": 50,
+    "ilevel": 90,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d20909938d07e83d4af169cbbe27dc0cae62d601.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a4288ecf826",
+    "name": "Amdapor Keep (Hard)",
+    "level": 50,
+    "ilevel": 90,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6f26a0009c2e5620ed8b5fb609f0d88614adb1d.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "df5ab8bfd61",
+    "name": "The Dusk Vigil",
+    "level": 51,
+    "ilevel": 100,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/225aa84498f1f5e701f53b96523cd3bb6ea46f0c.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "eed0add7a62",
+    "name": "Sohm Al",
+    "level": 53,
+    "ilevel": 105,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fadc617e9cb7e1039299317c115348f5d3d4e16a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "339c4923556",
+    "name": "The Aery",
+    "level": 55,
+    "ilevel": 110,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/caf3b05f522ee304744014024f58a1c21fcad9c1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a62f7ee3718",
+    "name": "The Vault",
+    "level": 57,
+    "ilevel": 115,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/daebf854b3829e04cae099ea80393920a16bc3c1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f368b40c648",
+    "name": "The Great Gubal Library",
+    "level": 59,
+    "ilevel": 120,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/599d1d744ce2ee8b3eab1403192ab0e18c351ee8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "923e0a1d1d0",
+    "name": "The Aetherochemical Research Facility",
+    "level": 60,
+    "ilevel": 142,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5263674a86a60c20249019c4317226a04f0ef60.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "618168354ea",
+    "name": "Neverreap",
+    "level": 60,
+    "ilevel": 145,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f517b7d5d8a69050c8f746b6f13924cb34c91272.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c39cf50a6a5",
+    "name": "The Fractal Continuum",
+    "level": 60,
+    "ilevel": 145,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0c/0ccd06aaab677ff37bd067ab41a6ab20cf3d6e4f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cdad1cb65e8",
+    "name": "Saint Mocianne's Arboretum",
+    "level": 60,
+    "ilevel": 170,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b3fc87b8971607e328e297bdd4022fb66e861d34.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cd500c08682",
+    "name": "Pharos Sirius (Hard)",
+    "level": 60,
+    "ilevel": 170,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b576b2af921ca22184716e9fe905f329f8b9932.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "36e172ff46c",
+    "name": "The Antitower",
+    "level": 60,
+    "ilevel": 180,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de47137798ce6682e9608c9291a517f7c5ae2225.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "193a96b0fa4",
+    "name": "The Lost City of Amdapor (Hard)",
+    "level": 60,
+    "ilevel": 180,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2f40904fe40d414c70f3cc7a763b7875f227ee69.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a8c7c5c13bd",
+    "name": "Sohr Khai",
+    "level": 60,
+    "ilevel": 200,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4fa68fb53237f77faa81db5301664d4e20674e07.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "313b1415d0f",
+    "name": "Hullbreaker Isle (Hard)",
+    "level": 60,
+    "ilevel": 200,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/6760932a004ef6bef72d5eeb752d8b02e5d7b2f8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1d95a773990",
+    "name": "Xelphatol",
+    "level": 60,
+    "ilevel": 210,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/11/11541863ac44ad7f1451e5d967ba4a7e2bf93bca.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d6e98e35e6f",
+    "name": "The Great Gubal Library (Hard)",
+    "level": 60,
+    "ilevel": 210,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2d/2df1a7a552539206457065111a679fa659cc0c12.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "bc72ef27ade",
+    "name": "Baelsar's Wall",
+    "level": 60,
+    "ilevel": 230,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f579653cd0b98414bbc7d015e45a87fdc2b42ca.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "9bd9004a140",
+    "name": "Sohm Al (Hard)",
+    "level": 60,
+    "ilevel": 230,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8ba94de5edcd6215369cea819bfd17d1c5c999a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "471227e1ee7",
+    "name": "The Sirensong Sea",
+    "level": 61,
+    "ilevel": 240,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/1617b4f148906349fcd179c8ebd40aba375a9b79.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "39ba54ada1c",
+    "name": "Shisui of the Violet Tides",
+    "level": 63,
+    "ilevel": 245,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6aea130efa8531e432a47487f8e452a06a078f7c.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "53d7100d839",
+    "name": "Bardam's Mettle",
+    "level": 65,
+    "ilevel": 250,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd5e7c354ee4707afdce5e85e400a391e1853c8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cd924bd8eac",
+    "name": "Doma Castle",
+    "level": 67,
+    "ilevel": 255,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4a0e93e30a6a7f2bbc4cbe7ce1059779e2148f84.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e635797754f",
+    "name": "Castrum Abania",
+    "level": 69,
+    "ilevel": 260,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a0bc784c85b720bb57f565f2cf1b41e7a5297c9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c71bb06e67b",
+    "name": "Ala Mhigo",
+    "level": 70,
+    "ilevel": 280,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c7af335dc765a5c7464ad64a7c48d22f3803d5f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "37d0e83919d",
+    "name": "Kugane Castle",
+    "level": 70,
+    "ilevel": 280,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0bd88cd0cf17865be47fffae007e49aef373f4ee.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "23edcb0d626",
+    "name": "The Temple of the Fist",
+    "level": 70,
+    "ilevel": 280,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19ac2031fa5bf961c25352883a680f5f838cf312.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "47ef709fb04",
+    "name": "The Drowned City of Skalla",
+    "level": 70,
+    "ilevel": 300,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ad7f3209a353ea683a250b773955658f27da10ed.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f9ab5899e9d",
+    "name": "Hells' Lid",
+    "level": 70,
+    "ilevel": 310,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/430d188b40d744c81255e9c35e1296e4a93bd117.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b8bea03880d",
+    "name": "The Fractal Continuum (Hard)",
+    "level": 70,
+    "ilevel": 310,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82c05a99bef1b854e63d475194b7767731068204.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "35ed52cf463",
+    "name": "The Swallow's Compass",
+    "level": 70,
+    "ilevel": 330,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/54293c3cc367d734fe240c9862c7f78259c3f789.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c8608c977a6",
+    "name": "The Burn",
+    "level": 70,
+    "ilevel": 340,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30f2bb7bb783e3df2ef8bf07e628ae3eeaef71c9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "25cf070eeb4",
+    "name": "Saint Mocianne's Arboretum (Hard)",
+    "level": 70,
+    "ilevel": 340,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da302e7c808f680ec617bcad2c9c11c5e67c79c1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "33a05f144e4",
+    "name": "The Ghimlyt Dark",
+    "level": 70,
+    "ilevel": 360,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4f3a8a15637546efd151a4dea460b1e47cadde49.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a6165958a5c",
+    "name": "Holminster Switch",
+    "level": 71,
+    "ilevel": 370,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/57ac5d1d1a65d526767779434558e4958c807813.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5f9f024b774",
+    "name": "Dohn Mheg",
+    "level": 73,
+    "ilevel": 375,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/3701aa930b4bcf44c77f7cabe0270592fadba5d4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "3aff2d6760c",
+    "name": "The Qitana Ravel",
+    "level": 75,
+    "ilevel": 380,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b87d0d64f4fcc95e9ce386ac9a178c4e1db4cbab.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f8fff809d77",
+    "name": "Malikah's Well",
+    "level": 77,
+    "ilevel": 385,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04b6679007c07fb2de3c27fec7af4417419d2495.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "72f2e86daba",
+    "name": "Mt. Gulg",
+    "level": 79,
+    "ilevel": 390,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c87037f039d4b69128a9837b866529c1be902c4b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c5de427bfef",
+    "name": "Amaurot",
+    "level": 80,
+    "ilevel": 410,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dca939d0c88c790940e70c305a46deaa4cdb99df.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "be6a14f45a6",
+    "name": "The Twinning",
+    "level": 80,
+    "ilevel": 410,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12a91180c62a0ef354275e3f4b0c114db0e8a6c4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d2b053e4e31",
+    "name": "Akadaemia Anyder",
+    "level": 80,
+    "ilevel": 410,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/53c2ce6db61bd8ea1cd00a0156b3d419b74e18fd.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1f246825352",
+    "name": "The Grand Cosmos",
+    "level": 80,
+    "ilevel": 430,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/95eab72b826602a8e759a796c9c7a24a379ae273.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "969e6501eb7",
+    "name": "Anamnesis Anyder",
+    "level": 80,
+    "ilevel": 440,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8e43456994233d96ee0a683377ef6f3f1136475b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "44073b7449c",
+    "name": "The Heroes' Gauntlet",
+    "level": 80,
+    "ilevel": 460,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80f2cab681acd4fd2c4afa934f4871d91cb28dd7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5a30eb6b20d",
+    "name": "Matoya's Relict",
+    "level": 80,
+    "ilevel": 470,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b6b6413e3157c05a2e641b50d31a450b59f8fd1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "81f08141768",
+    "name": "Paglth'an",
+    "level": 80,
+    "ilevel": 490,
+    "players": 4,
+    "type": "DUNGEONS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/3368bfd6a6b33e62e3a83b0728827bdaf3aac3b1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c3e6020e9e6",
+    "name": "The Bowl of Embers",
+    "level": 20,
+    "ilevel": 0,
+    "players": 4,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a1/a1f5554cff18c9f087fd8bf135cbdab7bec364b9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "859d01176cd",
+    "name": "The Navel",
+    "level": 34,
+    "ilevel": 0,
+    "players": 4,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ef3330f0a64191289f2588b64379a8cb106932f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "9c8db3d95b6",
+    "name": "The Howling Eye",
+    "level": 44,
+    "ilevel": 0,
+    "players": 4,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a78518386d84d4afea5cffeba2860ef70d1508f9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d85fe0d02a1",
+    "name": "Cape Westwind",
+    "level": 49,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bb907bc9613eeacaae456830e556bd551d158f8a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "2fac3746c16",
+    "name": "The Chrysalis",
+    "level": 50,
+    "ilevel": 90,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b1fc7b7730a6a2f63644d0b3b0d8c63ba3436799.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f80af21461f",
+    "name": "The Steps of Faith",
+    "level": 50,
+    "ilevel": 90,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d64604325e98d5825097fac7c22575acb27c9c.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "decf353d4e7",
+    "name": "A Relic Reborn: the Chimera",
+    "level": 50,
+    "ilevel": 52,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb8397b0e2e534dbf32526e9c18e06531e4216fc.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c87fbc421a0",
+    "name": "A Relic Reborn: the Hydra",
+    "level": 50,
+    "ilevel": 52,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/937f08408d89824eaf5383a29fa026eb4b6f7a6e.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c370021f429",
+    "name": "Battle on the Big Bridge",
+    "level": 50,
+    "ilevel": 50,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f1de09ea3e33bb7f2dc4de2e223120e7b719c20.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a74020d08e8",
+    "name": "The Dragon's Neck",
+    "level": 50,
+    "ilevel": 80,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94ef8852088c518f83c15cc8214c55ea49149666.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cb876745bce",
+    "name": "Battle in the Big Keep",
+    "level": 50,
+    "ilevel": 90,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc7140708e4242953d97a4901970012d39f6167.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "2640986aff3",
+    "name": "The Bowl of Embers (Hard)",
+    "level": 50,
+    "ilevel": 49,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42a5036b2e857b2da12bfc427e2071e38727afb2.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b74b4328a17",
+    "name": "The Howling Eye (Hard)",
+    "level": 50,
+    "ilevel": 52,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/959c9fbbfc127c6b2bafb3ab90a0e298fb15345a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "349d6ca4465",
+    "name": "The Navel (Hard)",
+    "level": 50,
+    "ilevel": 57,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/9372b0ae476a9c2373bf6ff92efd6739f67a08f8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6a88aecaec1",
+    "name": "Thornmarch (Hard)",
+    "level": 50,
+    "ilevel": 54,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d977ce80569a1762c85f6f93f8df49d490ac0bec.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a9147177b7a",
+    "name": "The Whorleater (Hard)",
+    "level": 50,
+    "ilevel": 60,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b8948fe9d813d9b1e28e024e586967d9264231fe.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "520ffafb60d",
+    "name": "The Striking Tree (Hard)",
+    "level": 50,
+    "ilevel": 65,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9991f6ecd4f8b861d5b24155948d70b20c631f69.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c38bedcfa46",
+    "name": "The Akh Afah Amphitheatre (Hard)",
+    "level": 50,
+    "ilevel": 80,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4ad9464dbfdcdfd68beb4e0400256d54700c87a2.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "21d8c5bd54b",
+    "name": "Urth's Fount",
+    "level": 50,
+    "ilevel": 95,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91be70fb8b4300a8de5f4b4fa62566fc825e0fef.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "0de44d2eccf",
+    "name": "The Minstrel's Ballad: Ultima's Bane",
+    "level": 50,
+    "ilevel": 61,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be3299c0f00598ec296ad4b56ac25ab371b10ebb.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7c17ae70cc6",
+    "name": "The Howling Eye (Extreme)",
+    "level": 50,
+    "ilevel": 65,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/569fe7ed1eb5f3b1b02e4d9e674c62bd191aae69.png?n5.58",
+    "altnames": [
+      "Garuda EX"
+    ]
+  },
+  {
+    "lsid": "589c727302e",
+    "name": "The Navel (Extreme)",
+    "level": 50,
+    "ilevel": 67,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/305ca449902239f9f8b428a448f502b510e8ab67.png?n5.58",
+    "altnames": [
+      "Titan EX"
+    ]
+  },
+  {
+    "lsid": "6af1a94ccca",
+    "name": "The Bowl of Embers (Extreme)",
+    "level": 50,
+    "ilevel": 70,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/49882d7d07c410fefb98cc520d471161754df6e5.png?n5.58",
+    "altnames": [
+      "Ifrit EX"
+    ]
+  },
+  {
+    "lsid": "b7c47c44490",
+    "name": "Thornmarch (Extreme)",
+    "level": 50,
+    "ilevel": 80,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09b9c2700a2acd095162c5e84a84322c13db2b4c.png?n5.58",
+    "altnames": [
+      "Moogle EX"
+    ]
+  },
+  {
+    "lsid": "0850a8627aa",
+    "name": "The Whorleater (Extreme)",
+    "level": 50,
+    "ilevel": 80,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/968e847cd11424a9f2b34a6fbd81ff57d498587e.png?n5.58",
+    "altnames": [
+      "Leviathan EX"
+    ]
+  },
+  {
+    "lsid": "4d8cae741db",
+    "name": "The Striking Tree (Extreme)",
+    "level": 50,
+    "ilevel": 85,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d6624ff609d50f9ce5446b3d914869dc8c9845d6.png?n5.58",
+    "altnames": [
+      "Ramuh EX"
+    ]
+  },
+  {
+    "lsid": "5f786d57228",
+    "name": "The Akh Afah Amphitheatre (Extreme)",
+    "level": 50,
+    "ilevel": 95,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66b60b66bcf2bd2a8c53edf2c160573549f9f943.png?n5.58",
+    "altnames": [
+      "Shiva EX"
+    ]
+  },
+  {
+    "lsid": "f55bdb9e34e",
+    "name": "Thok ast Thok (Hard)",
+    "level": 53,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6f9c8ba6e71f326bc35dc1b0e38f6d767d1e3d21.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "26fe48f4631",
+    "name": "The Limitless Blue (Hard)",
+    "level": 57,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/009bea96cff1c35ad828b457f6ecd17b533ef878.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "12c172943bc",
+    "name": "The Singularity Reactor",
+    "level": 60,
+    "ilevel": 142,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbcf8a2044d088ef2d8c692129a9248c8658d093.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "2caf2e26f12",
+    "name": "The Final Steps of Faith",
+    "level": 60,
+    "ilevel": 205,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0a672114a5135c725abf3c7713584bfa189259ac.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "08c9d224d28",
+    "name": "Containment Bay S1T7",
+    "level": 60,
+    "ilevel": 190,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4da5b6941d8004c1a9610bfb685f12b711fdedf6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "83e0064270d",
+    "name": "Containment Bay P1T6",
+    "level": 60,
+    "ilevel": 220,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e668c07b896d565011dbb001d41a36184c4081b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "8ff3c52798c",
+    "name": "Containment Bay Z1T9",
+    "level": 60,
+    "ilevel": 235,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/057d1513ba57271cf4027970321277c90f2795b7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e9bb63551a4",
+    "name": "The Limitless Blue (Extreme)",
+    "level": 60,
+    "ilevel": 165,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4e1086911e97cd7fd9255fb9c500d69f103bec9.png?n5.58",
+    "altnames": [
+      "Bismarck EX"
+    ]
+  },
+  {
+    "lsid": "83f028575c8",
+    "name": "Thok ast Thok (Extreme)",
+    "level": 60,
+    "ilevel": 175,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7cb11f04a84be46de4fab2bd8fe91e2bd507065e.png?n5.58",
+    "altnames": [
+      "Ravana EX"
+    ]
+  },
+  {
+    "lsid": "a8a4860068c",
+    "name": "The Minstrel's Ballad: Thordan's Reign",
+    "level": 60,
+    "ilevel": 190,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cd22553abbec793f0a93fc33d833b44dc565408.png?n5.58",
+    "altnames": [
+      "Thordan EX"
+    ]
+  },
+  {
+    "lsid": "0e880006330",
+    "name": "The Minstrel's Ballad: Nidhogg's Rage",
+    "level": 60,
+    "ilevel": 220,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd6dc6e893e39c18c5444fff3ff7d48fc53039.png?n5.58",
+    "altnames": [
+      "Nidhogg EX"
+    ]
+  },
+  {
+    "lsid": "e05c982993d",
+    "name": "Containment Bay S1T7 (Extreme)",
+    "level": 60,
+    "ilevel": 205,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3fdd0d726b2103598e8db0fad33b229f2242943.png?n5.58",
+    "altnames": [
+      "Sephirot"
+    ]
+  },
+  {
+    "lsid": "212ceb19a34",
+    "name": "Containment Bay P1T6 (Extreme)",
+    "level": 60,
+    "ilevel": 235,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c292c93da52d530f99438b782c7f2f3f6762975a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "26a86785be9",
+    "name": "Containment Bay Z1T9 (Extreme)",
+    "level": 60,
+    "ilevel": 250,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86457584b68e8c8354ca75b8c6ef22d6249e7035.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5806cb2d995",
+    "name": "The Pool of Tribute",
+    "level": 63,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4b93a2b1a0162e2c4022cf9bf062a2cac8c41512.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7992a4eab66",
+    "name": "Emanation",
+    "level": 67,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/436a5b41156c624d9296bfa6bf7555a3dc938f87.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "13be0500007",
+    "name": "The Royal Menagerie",
+    "level": 70,
+    "ilevel": 280,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d0/d048c3e30395ba9c56bcc6e832187801446ea043.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "10fe97ad942",
+    "name": "Castrum Fluminis",
+    "level": 70,
+    "ilevel": 335,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0b296ecf80e76987a621d6287d2d7356431c7e7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "bad56c435a5",
+    "name": "Kugane Ohashi",
+    "level": 70,
+    "ilevel": 365,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/334744c0a86d9356a32d88d3e6b76e2070a6bb1f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a8b065d443b",
+    "name": "The Great Hunt",
+    "level": 70,
+    "ilevel": 320,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f7034f3c0316a3eec59c40ae3965c9f92c55740.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f1fc9fb6093",
+    "name": "The Jade Stoa",
+    "level": 70,
+    "ilevel": 325,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/55c2d0ad8beb8083d29d1a9bc98bf64264724993.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "ea0f6440546",
+    "name": "Hells' Kier",
+    "level": 70,
+    "ilevel": 355,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a61579095bb66b5e2a84ea78c25c59aa70ff6ffe.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c19b83441e4",
+    "name": "The Wreath of Snakes",
+    "level": 70,
+    "ilevel": 365,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7ab6f2e28551abd00f7cad64edc8cd916839a135.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b28f61e6212",
+    "name": "The Pool of Tribute (Extreme)",
+    "level": 70,
+    "ilevel": 300,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c5/c5031bcd4d85dc90eba137744dc3655f93bb1a80.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7de6a27d145",
+    "name": "Emanation (Extreme)",
+    "level": 70,
+    "ilevel": 300,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/25b93a945cd826831ed9ae29372d76b91cab0c16.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "8c829b8dd8c",
+    "name": "The Minstrel's Ballad: Shinryu's Domain",
+    "level": 70,
+    "ilevel": 320,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3d68f00c8a9b60f3ed1a94c4b242e2a92e5aa8b0.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "0919d2674e0",
+    "name": "The Minstrel's Ballad: Tsukuyomi's Pain",
+    "level": 70,
+    "ilevel": 350,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cb71ed931b14d2d96b5f85c144e554cf0c3069cd.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "52328939737",
+    "name": "The Great Hunt (Extreme)",
+    "level": 70,
+    "ilevel": 350,
+    "players": 4,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f55ac86ec9365557004d6afddf1430aab9844d5d.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "44fc4abc0eb",
+    "name": "The Jade Stoa (Extreme)",
+    "level": 70,
+    "ilevel": 340,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7fc9a1dfdf8c75a5590b048f587574da36657e12.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "628e9a05d34",
+    "name": "Hells' Kier (Extreme)",
+    "level": 70,
+    "ilevel": 370,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/02/02c3c87aaafa2e265a8413bb510609adb4b0abc3.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c79d50c803d",
+    "name": "The Wreath of Snakes (Extreme)",
+    "level": 70,
+    "ilevel": 380,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a2/a2505410d17c40ab6074111a3ad1b471b1f95726.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "dbf2007968d",
+    "name": "The Dancing Plague",
+    "level": 73,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f4e85c0d3e471b51fb1a633d004cb45fdfb51f11.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "0b1d4434e26",
+    "name": "The Crown of the Immaculate",
+    "level": 79,
+    "ilevel": 0,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f7a68cbf5b648cc7f04aa81c68d2f19f38f9c3b8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6b31d339381",
+    "name": "The Dying Gasp",
+    "level": 80,
+    "ilevel": 410,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/acfeb2e282bd66efbd5c3e0b6e1036140eecd37d.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "793ed012f43",
+    "name": "Cinder Drift",
+    "level": 80,
+    "ilevel": 455,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59a3411a059215ff7848bdef5079bd69f9872dfd.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "16b75e706b3",
+    "name": "The Seat of Sacrifice",
+    "level": 80,
+    "ilevel": 465,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/93ce09d806180be0386396debfac85175623d1f1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cd08ecb15cc",
+    "name": "Castrum Marinum",
+    "level": 80,
+    "ilevel": 485,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b407aa4f143de28b87b6cd351e0a0309ba7675f7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "138006e2d76",
+    "name": "The Cloud Deck",
+    "level": 80,
+    "ilevel": 495,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/562364ba17cec0887b375cf4aad3ceca0ef320b9.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "bad53f19540",
+    "name": "The Dancing Plague (Extreme)",
+    "level": 80,
+    "ilevel": 430,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9d/9de43bfb4a9f0bf9080e3ebc005eb7c59c6b4b64.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "55504d0495f",
+    "name": "The Crown of the Immaculate (Extreme)",
+    "level": 80,
+    "ilevel": 430,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/24c1ae6fe9dcc7957104c34b0d67f558fe202373.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b2e08d16bce",
+    "name": "The Minstrel's Ballad: Hades's Elegy",
+    "level": 80,
+    "ilevel": 450,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/299a9776c908d9f79e02278f5daa79af8597107b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b388be5eb05",
+    "name": "Cinder Drift (Extreme)",
+    "level": 80,
+    "ilevel": 470,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/76d9249c93d15deb68608787ad499db1331ff46b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "841d3f69efd",
+    "name": "Memoria Misera (Extreme)",
+    "level": 80,
+    "ilevel": 470,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04aa01af1d85942282cb82a57b7dc573c7ad7175.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1543e03ff37",
+    "name": "The Seat of Sacrifice (Extreme)",
+    "level": 80,
+    "ilevel": 480,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/caf3bdf90c39b151164996f3c93c35980e26da26.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "16e9780d10e",
+    "name": "Castrum Marinum (Extreme)",
+    "level": 80,
+    "ilevel": 500,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d8b946c32fc3398494cd38052a3da9a32bd05156.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "4d52d50ecad",
+    "name": "The Whorleater (Unreal)",
+    "level": 80,
+    "ilevel": 430,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ab/ab0d50f73d570a0daf67c2616539e6d2bfe0c200.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "c4a2acf0912",
+    "name": "The Cloud Deck (Extreme)",
+    "level": 80,
+    "ilevel": 510,
+    "players": 8,
+    "type": "TRIALS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7c65dff1944976fd540f6cbe2fc0e3e2667475fe.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d9f4e986d0e",
+    "name": "The Labyrinth of the Ancients",
+    "level": 50,
+    "ilevel": 50,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2bdf3e5baf981cbd59db0b8c7fd800b7682028dc.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "47eb1d018b6",
+    "name": "Syrcus Tower",
+    "level": 50,
+    "ilevel": 70,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a5891b8615cf212120ea8ed200fd382ddd41f47.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7f0a3551ab6",
+    "name": "The World of Darkness",
+    "level": 50,
+    "ilevel": 90,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bdcd55456b341740b2b48e6fd3650fdb3e7f37a7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "fade6531524",
+    "name": "The Binding Coil of Bahamut - Turn 1",
+    "level": 50,
+    "ilevel": 70,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b61ea6da77ad12dcff2586ff8ee5f981bf197a0e.png?n5.58",
+    "altnames": [
+      "Bahamut T1"
+    ]
+  },
+  {
+    "lsid": "9c359c635d7",
+    "name": "The Binding Coil of Bahamut - Turn 2",
+    "level": 50,
+    "ilevel": 73,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f60c5972be902aab84f1dd8a3bdb1f9dd5f8e20.png?n5.58",
+    "altnames": [
+      "Bahamut T2"
+    ]
+  },
+  {
+    "lsid": "e67a875fc85",
+    "name": "The Binding Coil of Bahamut - Turn 3",
+    "level": 50,
+    "ilevel": 70,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7f90cb1fa059ebb6d73b6830823724f315ede769.png?n5.58",
+    "altnames": [
+      "Bahamut T3"
+    ]
+  },
+  {
+    "lsid": "f5e0e0bdfbe",
+    "name": "The Binding Coil of Bahamut - Turn 4",
+    "level": 50,
+    "ilevel": 77,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a5f0732b4b9ce23aa9246b22acbe4cf0559cdea.png?n5.58",
+    "altnames": [
+      "Bahamut T4"
+    ]
+  },
+  {
+    "lsid": "7134211f501",
+    "name": "The Binding Coil of Bahamut - Turn 5",
+    "level": 50,
+    "ilevel": 82,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/69e256c803a89ee01b9c8ee78aed6bba75a5fd70.png?n5.58",
+    "altnames": [
+      "Bahamut T5"
+    ]
+  },
+  {
+    "lsid": "744fe0d9e6e",
+    "name": "The Second Coil of Bahamut - Turn 1",
+    "level": 50,
+    "ilevel": 90,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5b8bd604d28a05c98e25190e06eee28a1067012.png?n5.58",
+    "altnames": [
+      "Bahamut T6"
+    ]
+  },
+  {
+    "lsid": "400cba1a77d",
+    "name": "The Second Coil of Bahamut - Turn 2",
+    "level": 50,
+    "ilevel": 95,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87b2194678098844b564d53e065c38c45d0fe862.png?n5.58",
+    "altnames": [
+      "Bahamut T7"
+    ]
+  },
+  {
+    "lsid": "87e821480bb",
+    "name": "The Second Coil of Bahamut - Turn 3",
+    "level": 50,
+    "ilevel": 100,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/494d31d95fe1b070289dfb2d2b95932854458bad.png?n5.58",
+    "altnames": [
+      "Bahamut T8"
+    ]
+  },
+  {
+    "lsid": "1fed5f286f0",
+    "name": "The Second Coil of Bahamut - Turn 4",
+    "level": 50,
+    "ilevel": 105,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dba461713ad7e3423e9f7d9b98d0bbaa3f0636a9.png?n5.58",
+    "altnames": [
+      "Bahamut T9"
+    ]
+  },
+  {
+    "lsid": "debdbcb0b6a",
+    "name": "The Final Coil of Bahamut - Turn 1",
+    "level": 50,
+    "ilevel": 110,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d68cfe62dc895a980d0a08a01ffc65d6e753a77.png?n5.58",
+    "altnames": [
+      "Bahamut T10"
+    ]
+  },
+  {
+    "lsid": "bcb01b1b218",
+    "name": "The Final Coil of Bahamut - Turn 2",
+    "level": 50,
+    "ilevel": 115,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/157f3447db5a214a742665b21840b0ce71051b33.png?n5.58",
+    "altnames": [
+      "Bahamut T11"
+    ]
+  },
+  {
+    "lsid": "d23c00881c6",
+    "name": "The Final Coil of Bahamut - Turn 3",
+    "level": 50,
+    "ilevel": 120,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/ebaadb1c87e11526510b661a62064ae0e392900f.png?n5.58",
+    "altnames": [
+      "Bahamut T12"
+    ]
+  },
+  {
+    "lsid": "f086f0517d0",
+    "name": "The Final Coil of Bahamut - Turn 4",
+    "level": 50,
+    "ilevel": 123,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c1e2d8b0995fc79b98cecce0af09775df0220a58.png?n5.58",
+    "altnames": [
+      "Bahamut T13"
+    ]
+  },
+  {
+    "lsid": "80a9ef97b78",
+    "name": "The Second Coil of Bahamut (Savage) - Turn 1",
+    "level": 50,
+    "ilevel": 105,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5b8bd604d28a05c98e25190e06eee28a1067012.png?n5.58",
+    "altnames": [
+      "Bahamut T6S"
+    ]
+  },
+  {
+    "lsid": "853b4775a42",
+    "name": "The Second Coil of Bahamut (Savage) - Turn 2",
+    "level": 50,
+    "ilevel": 105,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87b2194678098844b564d53e065c38c45d0fe862.png?n5.58",
+    "altnames": [
+      "Bahamut T7S"
+    ]
+  },
+  {
+    "lsid": "a674fe41a1a",
+    "name": "The Second Coil of Bahamut (Savage) - Turn 3",
+    "level": 50,
+    "ilevel": 105,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/494d31d95fe1b070289dfb2d2b95932854458bad.png?n5.58",
+    "altnames": [
+      "Bahamut T8S"
+    ]
+  },
+  {
+    "lsid": "0065196fbe4",
+    "name": "The Second Coil of Bahamut (Savage) - Turn 4",
+    "level": 50,
+    "ilevel": 105,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dba461713ad7e3423e9f7d9b98d0bbaa3f0636a9.png?n5.58",
+    "altnames": [
+      "Bahamut T9S"
+    ]
+  },
+  {
+    "lsid": "07fc9cb5bc8",
+    "name": "The Void Ark",
+    "level": 60,
+    "ilevel": 175,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b0a1515fd3d",
+    "name": "The Weeping City of Mhach",
+    "level": 60,
+    "ilevel": 205,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec8f1b447a9ee8b1401e06f763997e153f11c638.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "35a8825ed8e",
+    "name": "Dun Scaith",
+    "level": 60,
+    "ilevel": 235,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e004d33120a37c6ba9439795bf60fa17ed841061.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5877d34ab3d",
+    "name": "Alexander - The Fist of the Father",
+    "level": 60,
+    "ilevel": 170,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89bf954b38b70d4d9bd2b7a02ff2e029ee6d09f8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "157799be6d1",
+    "name": "Alexander - The Cuff of the Father",
+    "level": 60,
+    "ilevel": 170,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd1cff06f2bd7f53c147f03d56d20fbfa45d21.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "16d0ba16753",
+    "name": "Alexander - The Arm of the Father",
+    "level": 60,
+    "ilevel": 170,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47925fc8d470ee7c6cd2079a4d967670b1ed89b4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "0e9dbcd3e88",
+    "name": "Alexander - The Burden of the Father",
+    "level": 60,
+    "ilevel": 170,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5519f5017d7ec5286e4ac296fed3dbbbb4fda1b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "39c6854e6a8",
+    "name": "Alexander - The Fist of the Son",
+    "level": 60,
+    "ilevel": 200,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efe35428cbdcfcbe7d2f7d62855d2106ea633356.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1a42720a2b8",
+    "name": "Alexander - The Cuff of the Son",
+    "level": 60,
+    "ilevel": 200,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01cbb00da1fe632ddc7b4ef25f3cd2a35f04e50f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b919a88ec20",
+    "name": "Alexander - The Arm of the Son",
+    "level": 60,
+    "ilevel": 200,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbd45c0d28c979c27619ab464bfcd12dfe5e9733.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d3146ecb9f8",
+    "name": "Alexander - The Burden of the Son",
+    "level": 60,
+    "ilevel": 200,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0de9d4f0d7c3f6b2901ec8dae41d5d211ff2810a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "91e7c2d4647",
+    "name": "Alexander - The Eyes of the Creator",
+    "level": 60,
+    "ilevel": 230,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ae2f19152a7a37bce35ac620ee82f689b49a669.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "54cc9b3db16",
+    "name": "Alexander - The Breath of the Creator",
+    "level": 60,
+    "ilevel": 230,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/14/140831b51813fa5bb339eda3e727b17553ddbd07.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "3c58fc35be5",
+    "name": "Alexander - The Heart of the Creator",
+    "level": 60,
+    "ilevel": 230,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c737eaf2d2905fe87797a0d8438928001fff47ff.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "5516e8fd14f",
+    "name": "Alexander - The Soul of the Creator",
+    "level": 60,
+    "ilevel": 230,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b524b7ab88eee718b19fbc80601bc98aa6be41db.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "747c862dc22",
+    "name": "Alexander - The Fist of the Father (Savage)",
+    "level": 60,
+    "ilevel": 190,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/738214ac1a9b22039cc290fd84a362954b37e2dc.png?n5.58",
+    "altnames": [
+      "A1S"
+    ]
+  },
+  {
+    "lsid": "820a11812ab",
+    "name": "Alexander - The Cuff of the Father (Savage)",
+    "level": 60,
+    "ilevel": 195,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2bf0b27b2878df79995dd2493a27472256ed3664.png?n5.58",
+    "altnames": [
+      "A2S"
+    ]
+  },
+  {
+    "lsid": "aa5e1798294",
+    "name": "Alexander - The Arm of the Father (Savage)",
+    "level": 60,
+    "ilevel": 200,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/00771fcbc78e5308fb390aa19e5a54e49cf6f32e.png?n5.58",
+    "altnames": [
+      "A3S"
+    ]
+  },
+  {
+    "lsid": "fd7aa157f29",
+    "name": "Alexander - The Burden of the Father (Savage)",
+    "level": 60,
+    "ilevel": 205,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d99984bb3a33f7ab6156db29c30e815e190d4adb.png?n5.58",
+    "altnames": [
+      "A4S"
+    ]
+  },
+  {
+    "lsid": "2cf52917501",
+    "name": "Alexander - The Fist of the Son (Savage)",
+    "level": 60,
+    "ilevel": 215,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e0da3d8343d0fcf840ac3285268a67919b45cc96.png?n5.58",
+    "altnames": [
+      "A5S"
+    ]
+  },
+  {
+    "lsid": "0ed79e8abf3",
+    "name": "Alexander - The Cuff of the Son (Savage)",
+    "level": 60,
+    "ilevel": 220,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b31d9d7b8c45a7a22e72fd8cc299c9117f1495e1.png?n5.58",
+    "altnames": [
+      "A6S"
+    ]
+  },
+  {
+    "lsid": "e003bd330e2",
+    "name": "Alexander - The Arm of the Son (Savage)",
+    "level": 60,
+    "ilevel": 225,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7ae6a31d974b8af779b2b61340fbda45dba55d08.png?n5.58",
+    "altnames": [
+      "A7S"
+    ]
+  },
+  {
+    "lsid": "f93d68d7d3c",
+    "name": "Alexander - The Burden of the Son (Savage)",
+    "level": 60,
+    "ilevel": 225,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80a68379077ac47cc9b68f1e8c38c0b730e0fb94.png?n5.58",
+    "altnames": [
+      "A8S"
+    ]
+  },
+  {
+    ",lsid": "20c0e4f75a6",
+    "name": "Alexander - The Eyes of the Creator (Savage)",
+    "level": 60,
+    "ilevel": 245,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/514d34b090da3d42346a41d6d482d1db14e324c8.png?n5.58",
+    "altnames": [
+      "A9S"
+    ]
+  },
+  {
+    "lsid": "d5f9f998466",
+    "name": "Alexander - The Breath of the Creator (Savage)",
+    "level": 60,
+    "ilevel": 250,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/6775552a44d5086dd9f651f684673c45cb17e2b1.png?n5.58",
+    "altnames": [
+      "A10S"
+    ]
+  },
+  {
+    ",lsid": "a1ebaba1ae8",
+    "name": "Alexander - The Heart of the Creator (Savage)",
+    "level": 60,
+    "ilevel": 255,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4503e06e30eb94b27da01fd7770b9b4cfda6891.png?n5.58",
+    "altnames": [
+      "A11S"
+    ]
+  },
+  {
+    ",lsid": "def61a894af",
+    "name": "Alexander - The Soul of the Creator (Savage)",
+    "level": 60,
+    "ilevel": 255,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/75/751bd38ff7c779bc238f8dd386474182dad9287e.png?n5.58",
+    "altnames": [
+      "A12S"
+    ]
+  },
+  {
+    "lsid": "56209386296",
+    "name": "The Royal City of Rabanastre",
+    "level": 70,
+    "ilevel": 305,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f34fce54b46991acedcdad32b146272858e1a852.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "390fb10fd68",
+    "name": "The Ridorana Lighthouse",
+    "level": 70,
+    "ilevel": 335,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6f9af3f5c028935ed6e1eeadda471e9d2ba2f3f7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "95dbcc947db",
+    "name": "The Orbonne Monastery",
+    "level": 70,
+    "ilevel": 365,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44ba6002d4e575a443032cc1c1d74582f449a86b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "8e7cf4fcca2",
+    "name": "Deltascape V1.0",
+    "level": 70,
+    "ilevel": 295,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71146eb23c2562e5eef15d829ad07888ae310008.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "9322cea310c",
+    "name": "Deltascape V2.0",
+    "level": 70,
+    "ilevel": 295,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e362372cbfc0d468f2269dd70d3c3b857f092712.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1d0f4877cf2",
+    "name": "Deltascape V3.0",
+    "level": 70,
+    "ilevel": 295,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3e9caad0626f11effad56972367d96b22a694bca.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "76f228004f2",
+    "name": "Deltascape V4.0",
+    "level": 70,
+    "ilevel": 295,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9960c3a18d23384096a114d374ef91905536f9f2.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "98bb0f8e2f5",
+    "name": "Sigmascape V1.0",
+    "level": 70,
+    "ilevel": 325,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e2a2629d60290b05e0e591f88ef35304649be2f4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e89c7361d67",
+    "name": "Sigmascape V2.0",
+    "level": 70,
+    "ilevel": 325,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/51880ba8b5f70cfe8804e93e96b156d44cf18082.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "dd9b573806a",
+    "name": "Sigmascape V3.0",
+    "level": 70,
+    "ilevel": 325,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/589513e7f0f54593e22970524357927eefc1050f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f6bdf734a4a",
+    "name": "Sigmascape V4.0",
+    "level": 70,
+    "ilevel": 325,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b5ed55cecb1ea7e26f0a8aacb0f7a462fdb7336.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "4cdb4098c20",
+    "name": "Alphascape V1.0",
+    "level": 70,
+    "ilevel": 355,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b2573fc792c5493fe8307821f8ab64038a6a1f3.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "43a122b16c2",
+    "name": "Alphascape V2.0",
+    "level": 70,
+    "ilevel": 355,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f44aa3fa96dab6d56ced954754cd5d5fede0063.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "0b697689a12",
+    "name": "Alphascape V3.0",
+    "level": 70,
+    "ilevel": 355,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1984cbea4f17b01ff5859577aae25d0e632487a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6164ec419fe",
+    "name": "Alphascape V4.0",
+    "level": 70,
+    "ilevel": 355,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5a/5aba5479271ced72f5871940bee670f6b588520b.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7ba45eb83a8",
+    "name": "Deltascape V1.0 (Savage)",
+    "level": 70,
+    "ilevel": 310,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c343260d4a196aaab09c399c70ef434fe8e0d77c.png?n5.58",
+    "altnames": [
+      "O1S"
+    ]
+  },
+  {
+    "lsid": "8e638aa5413",
+    "name": "Deltascape V2.0 (Savage)",
+    "level": 70,
+    "ilevel": 315,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e8b015e84be68e5346fe1ac37e82cbcedf1972a.png?n5.58",
+    "altnames": [
+      "O2S"
+    ]
+  },
+  {
+    "lsid": "1b57dd15e71",
+    "name": "Deltascape V3.0 (Savage)",
+    "level": 70,
+    "ilevel": 320,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ecc2ab9d90bdb27a804edab158cd1aa61236e126.png?n5.58",
+    "altnames": [
+      "O3S"
+    ]
+  },
+  {
+    "lsid": "0b519d7fd00",
+    "name": "Deltascape V4.0 (Savage)",
+    "level": 70,
+    "ilevel": 320,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/416adf5527b0320abab1feca1fe16b424e1b3093.png?n5.58",
+    "altnames": [
+      "O4S"
+    ]
+  },
+  {
+    "lsid": "c6a225d5436",
+    "name": "Sigmascape V1.0 (Savage)",
+    "level": 70,
+    "ilevel": 340,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/575765c16fd02a11ee121be6fb8cc279f1a96a64.png?n5.58",
+    "altnames": [
+      "O5S"
+    ]
+  },
+  {
+    "lsid": "be562bd1bdc",
+    "name": "Sigmascape V2.0 (Savage)",
+    "level": 70,
+    "ilevel": 345,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbfdf421c89137cff72956e9ee3fae84aa90e2f7.png?n5.58",
+    "altnames": [
+      "O6S"
+    ]
+  },
+  {
+    "lsid": "6196f1cd409",
+    "name": "Sigmascape V3.0 (Savage)",
+    "level": 70,
+    "ilevel": 350,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3abfc6460116c2a8cf43a3729dcfcad2cb3937fc.png?n5.58",
+    "altnames": [
+      "O7S"
+    ]
+  },
+  {
+    "lsid": "28d9a03c886",
+    "name": "Sigmascape V4.0 (Savage)",
+    "level": 70,
+    "ilevel": 350,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/198dbac3559379bb04bb23e6f75c6e9245bb58f1.png?n5.58",
+    "altnames": [
+      "O8S"
+    ]
+  },
+  {
+    "lsid": "da2590c3569",
+    "name": "Alphascape V1.0 (Savage)",
+    "level": 70,
+    "ilevel": 370,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fdd1c4de67f6c660555b96f23efa7d7625d078b5.png?n5.58",
+    "altnames": [
+      "O9S"
+    ]
+  },
+  {
+    "lsid": "aa718108575",
+    "name": "Alphascape V2.0 (Savage)",
+    "level": 70,
+    "ilevel": 375,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04179b42187b350817e28522397c0134ae3684f8.png?n5.58",
+    "altnames": [
+      "O10S"
+    ]
+  },
+  {
+    "lsid": "5e1eccd3304",
+    "name": "Alphascape V3.0 (Savage)",
+    "level": 70,
+    "ilevel": 380,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/569faeaa5cdad0a0d8206eee3c66f12571e9bcf7.png?n5.58",
+    "altnames": [
+      "O11S"
+    ]
+  },
+  {
+    "lsid": "33360b27f26",
+    "name": "Alphascape V4.0 (Savage)",
+    "level": 70,
+    "ilevel": 380,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/79/799381fa1577c5dff296e69a11d39450b72485a3.png?n5.58",
+    "altnames": [
+      "O12S"
+    ]
+  },
+  {
+    "lsid": "ed86e5291b2",
+    "name": "The Copied Factory",
+    "level": 80,
+    "ilevel": 435,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fca3051b5db6c000976c3a805e86bd9fbbfdade.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "889b8d8cfa4",
+    "name": "The Puppets' Bunker",
+    "level": 80,
+    "ilevel": 465,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f1a29897772",
+    "name": "The Tower at Paradigm's Breach",
+    "level": 80,
+    "ilevel": 495,
+    "players": 24,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aa72f52d8672bef7407325749c19e5ac9915c6a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a3549ccbd94",
+    "name": "Eden's Gate: Resurrection",
+    "level": 80,
+    "ilevel": 425,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fed360e736cb131ddbcf1b3c62554a3c170333c.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "f82bc5d8d71",
+    "name": "Eden's Gate: Descent",
+    "level": 80,
+    "ilevel": 425,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/28/28043cfd25c994b50907bce001d09b590c3e3263.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "4618e49f844",
+    "name": "Eden's Gate: Inundation",
+    "level": 80,
+    "ilevel": 425,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b9/b9992f9044be44646e16abeae21d23fd4d166119.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b2a4cb98763",
+    "name": "Eden's Gate: Sepulture",
+    "level": 80,
+    "ilevel": 425,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba801f3e8610f0a0c5c6b45358e163265dae1767.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d743dcfe06a",
+    "name": "Eden's Verse: Fulmination",
+    "level": 80,
+    "ilevel": 455,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be65093b55bb22d8e99eca186807d8fedc8bfeae.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cdc9ff33eff",
+    "name": "Eden's Verse: Furor",
+    "level": 80,
+    "ilevel": 455,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/368cd449551e53b55df7abc20863b4ffa50f64cc.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "96ff35ae58b",
+    "name": "Eden's Verse: Iconoclasm",
+    "level": 80,
+    "ilevel": 455,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c114f1ab9c531e5297dfc5c8dbafe12aec0dbe25.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "2024c23c039",
+    "name": "Eden's Verse: Refulgence",
+    "level": 80,
+    "ilevel": 455,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b58da76fcc33fb333c3e4c3e75b65ffd36bededa.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "83f9103a01c",
+    "name": "Eden's Promise: Umbra",
+    "level": 80,
+    "ilevel": 485,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/4318cf7f4273f57046293ad2c370a738b020376a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "aafa2130da3",
+    "name": "Eden's Promise: Litany",
+    "level": 80,
+    "ilevel": 485,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4f5c7b7e1d9a91abadf27f8ffb6f997cf05f6874.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "ada07e3d029",
+    "name": "Eden's Promise: Anamorphosis",
+    "level": 80,
+    "ilevel": 485,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77c96d33dcd6a907693378f74a546310a3df744f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "d53631d5202",
+    "name": "Eden's Promise: Eternity",
+    "level": 80,
+    "ilevel": 485,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8d/8d0e3a1716978576f8b926d696fef587e08c28a6.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b82ab97c785",
+    "name": "Eden's Gate: Resurrection (Savage)",
+    "level": 80,
+    "ilevel": 440,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/cee673b455d0b17988567435c9667d60fd539043.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "7616847b849",
+    "name": "Eden's Gate: Descent (Savage)",
+    "level": 80,
+    "ilevel": 445,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/6676828efcc30cfe662ebd533fd2ffc318d052ec.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "3a52efcba77",
+    "name": "Eden's Gate: Inundation (Savage)",
+    "level": 80,
+    "ilevel": 450,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/6288797b7511ca065b71ca81b06bb8c01d0fa215.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "3f2c9ddbe05",
+    "name": "Eden's Gate: Sepulture (Savage)",
+    "level": 80,
+    "ilevel": 450,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74e3c82da9cd730a738824a538515f404afa8cad.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "718aa90e33d",
+    "name": "Eden's Verse: Fulmination (Savage)",
+    "level": 80,
+    "ilevel": 470,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c7278b331b245982ad3a111d42b27306cbfc55e7.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "8e7439e713d",
+    "name": "Eden's Verse: Furor (Savage)",
+    "level": 80,
+    "ilevel": 475,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c45c0474ff731a8fb15aab0a3bfabf3fc25afb8.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "cfa4ab23330",
+    "name": "Eden's Verse: Iconoclasm (Savage)",
+    "level": 80,
+    "ilevel": 480,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ed/edff6b93ca5c59767b9dcfbaa021e59b3d08dda4.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "46c4d21a738",
+    "name": "Eden's Verse: Refulgence (Savage)",
+    "level": 80,
+    "ilevel": 480,
+    "players": 8,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46e12eba33c790ea61c55b936ad59916a854e58f.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "a1d3734280f",
+    "name": "Eden's Promise: Umbra (Savage)",
+    "level": 80,
+    "ilevel": 500,
+    "players": 4,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/7686a3e11d3c8b94a8aafbdcf5fc2d6bed981635.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "efd7884c5da",
+    "name": "Eden's Promise: Litany (Savage)",
+    "level": 80,
+    "ilevel": 505,
+    "players": 4,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8c/8c7104d1a8a06d0dbc4341372d0dc36c2f388dea.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b890b8c68d5",
+    "name": "Eden's Promise: Anamorphosis (Savage)",
+    "level": 80,
+    "ilevel": 510,
+    "players": 4,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7f7249e3f6eca2773f68c65f02d3b7162ba5d387.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "6a038f0d5ef",
+    "name": "Eden's Promise: Eternity (Savage)",
+    "level": 80,
+    "ilevel": 510,
+    "players": 4,
+    "type": "RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d0/d0eabb53c19557e21464eda556f0c2f2a9da9312.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "1a863f1ea3b",
+    "name": "The Unending Coil of Bahamut (Ultimate)",
+    "level": 70,
+    "ilevel": 0,
+    "players": 8,
+    "type": "ULTIMATE_RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1aa609c136b7632b4fb51293c24580f7bb50203a.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "e6c2c586ba6",
+    "name": "The Weapon's Refrain (Ultimate)",
+    "level": 70,
+    "ilevel": 0,
+    "players": 4,
+    "type": "ULTIMATE_RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06b4b4da4b5eacee722a5f930d4d23fa880268b1.png?n5.58",
+    "altnames": []
+  },
+  {
+    "lsid": "b56710190e9",
+    "name": "The Epic of Alexander (Ultimate)",
+    "level": 80,
+    "ilevel": 0,
+    "players": 4,
+    "type": "ULTIMATE_RAIDS",
+    "imageUrl": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/df109b51274e8555932056cd985fa4229cb37505.png?n5.58",
+    "altnames": []
+  }
+]
