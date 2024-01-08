@@ -17,7 +17,6 @@ public class Config {
         public String token = "";
         public String status = "with party members";
         public String status_type = "DEFAULT";
-        public long owner_backdoor_id = 1L;
     }
 
     public class Icons {

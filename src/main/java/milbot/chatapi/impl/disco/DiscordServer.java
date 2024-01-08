@@ -265,9 +265,6 @@ public class DiscordServer implements Server {
         /*for (long command : commands) {
             ArrayList<CommandPrivilege> privileges = new ArrayList<>();
             privileges.add(CommandPrivilege.enableUser(g.getOwnerIdLong()));
-            if (Main.config.discord.owner_backdoor_id > 0) {
-                privileges.add(CommandPrivilege.enableUser(Main.config.discord.owner_backdoor_id));
-            }
             for (long role : allowable_roles) {
                 if (role > 0) {
                     privileges.add(CommandPrivilege.enableRole(role));
